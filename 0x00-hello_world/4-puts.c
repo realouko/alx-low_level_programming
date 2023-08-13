@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*PRINTING USING PUTS*/
+/*main function for PRINTING USING PUTS*/
 
 int main(void)
 {
