@@ -1,11 +1,13 @@
 #include <stdio.h>
+
 /**main - entry
  * Return zero
  */
-int main(void)
+int main(void)/*main function*/
 {
 	char letter;
 	for (letter = 'z'; letter >= 'a'; letter--)
+	
 	{
 	putchar(letter);
 	}
