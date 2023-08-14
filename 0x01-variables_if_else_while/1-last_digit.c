@@ -6,7 +6,14 @@
 
 /* betty style doc for function main goes there */
 
-/* Description: beginning of the program*/
+/**
+ * main - beginning of the program
+ *
+ * Description: This program generates a random number
+ * and performs logical operations on it
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)/*Description: main function starts here*/
 {
 	int n;
