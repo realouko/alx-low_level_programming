@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
-* DESCRIPTION:
+* DESCRIPTION
 * This program will generate a random
 * integer number using the srand function
-* 
+*
 * It will then perform a logical operation on
 * the last digit of the random integer to check
 * whether it is less than 5, greater than 5, or
@@ -15,11 +15,11 @@
 * Finally, it will print out the result of this
 * operation on the screen along with the initial
 * random integer generated
-*
-* main function: Beginning of the program
-*
-* Return: End of program to return a value of 0 (Success)
 */
+
+/* main function: Beginning of the program*/
+
+/* Return: End of program to return a value of 0 (Success)*/
 int main(void)
 {
 	int n;
