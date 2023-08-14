@@ -2,7 +2,7 @@
 
 /**
 * main- start of the program
-* 
+*
 * DESCRIPTION; function for PRINTING USING PUTS
 *
 * Return: always 0 (success)
