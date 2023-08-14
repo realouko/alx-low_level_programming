@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
-* DESCRIPTION
-* This program will generate a random
+* DESCRIPTION: This program will generate a random
 * integer number using the srand function
 *
 * It will then perform a logical operation on
@@ -22,6 +21,7 @@
 /* Return: End of program to return a value of 0 (Success)*/
 int main(void)
 {
+	/*main - generates random nimber*/
 	int n;
 
 	srand(time(0));
