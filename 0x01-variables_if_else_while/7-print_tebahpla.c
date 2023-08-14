@@ -1,13 +1,15 @@
 #include <stdio.h>
 
-/**main - entry
+/**
+ * main - entry
  * Return zero
  */
-int main(void)/*main function*/
+int main(void)
+	/*main function*/
 {
 	char letter;
 	for (letter = 'z'; letter >= 'a'; letter--)
-	
+
 	{
 	putchar(letter);
 	}
