@@ -6,8 +6,8 @@
 
 /* betty style doc for function main goes there */
 
-/* main - beginning of the program*/
-int main(void)/*main function starts here*/
+/* Description: beginning of the program*/
+int main(void)/*Description: main function starts here*/
 {
 	int n;
 
