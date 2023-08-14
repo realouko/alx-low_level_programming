@@ -1,8 +1,12 @@
 #include <stdio.h>
 
 /**
- * main function for printing
- */
+* main- start of the program
+*
+* DESCRIPTION; function for PRINTING USING PRINTF
+*
+* Return: always 0 (success)
+*/
 int main(void)
 {
 	/**
