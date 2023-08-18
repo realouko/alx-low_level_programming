@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
-* times_table - prints the n times table, starting with multiple 0
+* print_times_table - prints the n times table, starting with multiple 0
 * and ending with multiple 15
 * @n: integer multiple for the times table
 * Return: @void
 */
 
-void times_table(void)
+void print_times_table(int n)
 {
 	int a, b, c;
 
