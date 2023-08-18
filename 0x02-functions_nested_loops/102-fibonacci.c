@@ -8,7 +8,7 @@
 int main(void)
 {
 	long int a, b, c, nextfib;
-	
+
 	b = 1;
 	c = 2;
 
