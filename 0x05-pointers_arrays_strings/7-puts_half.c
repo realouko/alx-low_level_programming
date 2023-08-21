@@ -1,7 +1,8 @@
 #include "main.h"
 /**
 * puts_half - a function that prints half of a string
-* if number of characters is odd, it should print the last n characters of the string,
+* if number of characters is odd
+* it should print the last n characters of the string,
 * where n = (length_of_the_string - 1) / 2
 * @str: string input
 * Return: prints second half of string input
