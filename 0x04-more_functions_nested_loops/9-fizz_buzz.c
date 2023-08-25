@@ -7,8 +7,8 @@
 * for multiples of 3, print fizz
 * for multiples of 5, print buzz
 * for multiples of both 3 and 5, print fizzbuzz
-*
-*/ 
+* Return - Always 0
+*/
 
 int main(void)
 {
