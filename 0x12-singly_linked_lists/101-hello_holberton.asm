@@ -9,6 +9,7 @@ main:
 	push format
 	call printf
 	add rsp, 8
+	;
 
 	mov rdi, 0
 	mov rax, 60
