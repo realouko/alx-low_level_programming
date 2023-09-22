@@ -4,12 +4,12 @@
 #include<string.h>
 
 /**
-*print_list - function to print all
-*elements of the list_t list
-*@h: pointer to a list
+* print_list - function to print all
+* elements of the list_t list
+* @h: pointer to a list
 *
-*Return: to return the total
-*number of nodes.
+* Return: to return the total
+* number of nodes.
 */
 
 size_t print_list(const list_t *h)
