@@ -1,4 +1,6 @@
 #include "variadic_functions.h"
+#include<stdio.h>
+#include<stdarg.h>
 
 /**
 * _putchar - custom function to write a character to stdout.
